@@ -11,3 +11,14 @@ is a Flutter library of bindings to the default attribute widgets and interactio
 
 ## ednet_design_system
 is a automatically imported Figma abstraction transformed as EDNet.dev design system used for CI of UI/UX configuration for [ednet_semantics](https://github.com/ednet-dev/ednet_semantics) library.
+
+## ednet_figma_exporter
+is app demonstrading use of 
+  - ednet_figma_library and its
+    - ednet_figma_domain and
+    - ednet_figma_infrastructure
+
+in use case of dispaying minimal Figma text node.
+  
+  
+ 
