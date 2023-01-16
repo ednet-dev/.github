@@ -14,9 +14,9 @@ is a automatically imported Figma abstraction transformed as EDNet.dev design sy
 
 ## ednet_figma_exporter
 is app demonstrading use of 
-  - ednet_figma_library and its
-    - ednet_figma_domain and
-    - ednet_figma_infrastructure
+  - [ednet_figma_library](https://github.com/ednet-dev/ednet_figma_library)  and its
+    - [ednet_figma_domain](https://github.com/ednet-dev/ednet_figma_domain)  and
+    - [ednet_figma_infrastructure](https://github.com/ednet-dev/ednet_figma_infrastructure) 
 
 in use case of dispaying minimal Figma text node.
   
