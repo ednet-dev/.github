@@ -1,7 +1,12 @@
 
-# EDNet.dev
+# EDNet.dev 
+Business driven, modular, generic and automated [ednet_cms](https://github.com/ednet-dev/ednet_cms) library for building of MVPs (Minimum viable product) for business rule rich domains, facilitating implementation of generic, gamified domain models.
 
-Suite of tools implementiong generic Domain model of Direct democracy for reuse:
+# Playground
+Raw stuff
+
+## ednet_one
+Domain model of Direct democracy using ednet_dev
 
 ## ednet_core 
 is abstraction on top of Domain-Driven Design and Event Storming artefacts with a number of spcilized utility classes.
